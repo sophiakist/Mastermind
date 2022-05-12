@@ -1,4 +1,4 @@
-# CPTR 142: Project #2
+# Mastermind by Sophia Kist
 
 ## Problem Overview
 
